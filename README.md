@@ -70,9 +70,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1179](https://github.com/EddieHubCommunity/support/issues/1179) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Closed issue [#116](https://github.com/eddiejaoude/stargate/issues/116) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-3. ❗️ Opened issue [#116](https://github.com/eddiejaoude/stargate/issues/116) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-4. ❗️ Closed issue [#115](https://github.com/eddiejaoude/stargate/issues/115) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-5. ❗️ Opened issue [#115](https://github.com/eddiejaoude/stargate/issues/115) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+1. 🗣 Commented on [#33](https://github.com/EddieHubCommunity/api/issues/33) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. ❗️ Opened issue [#120](https://github.com/eddiejaoude/stargate/issues/120) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+3. 🗣 Commented on [#414](https://github.com/EddieHubCommunity/EddieBot/issues/414) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. 🗣 Commented on [#119](https://github.com/eddiejaoude/stargate/issues/119) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+5. 🗣 Commented on [#132](https://github.com/divanov11/Mumble/issues/132) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
 <!--END_SECTION:activity-->
