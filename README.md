@@ -36,7 +36,7 @@
 
 ---
 
-<p>
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiejaoude&theme=tokyonight" />
 </p>
@@ -70,9 +70,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/EddieHubCommunity/api/issues/33) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. ❗️ Opened issue [#120](https://github.com/eddiejaoude/stargate/issues/120) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-3. 🗣 Commented on [#414](https://github.com/EddieHubCommunity/EddieBot/issues/414) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. 🗣 Commented on [#119](https://github.com/eddiejaoude/stargate/issues/119) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-5. 🗣 Commented on [#132](https://github.com/divanov11/Mumble/issues/132) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+1. 🗣 Commented on [#10](https://github.com/EddieHubCommunity/Branding/issues/10) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+2. 🗣 Commented on [#10](https://github.com/EddieHubCommunity/Branding/issues/10) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+3. 🗣 Commented on [#115](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/115) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+4. 🗣 Commented on [#155](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/155) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+5. 🗣 Commented on [#1144](https://github.com/EddieHubCommunity/support/issues/1144) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
