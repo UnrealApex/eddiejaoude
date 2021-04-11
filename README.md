@@ -70,9 +70,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/EddieHubCommunity/Branding/issues/10) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-2. 🗣 Commented on [#10](https://github.com/EddieHubCommunity/Branding/issues/10) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-3. 🗣 Commented on [#12](https://github.com/EddieHubCommunity/Branding/issues/12) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-4. 🎉 Merged PR [#12](https://github.com/EddieHubCommunity/Branding/pull/12) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-5. 🎉 Merged PR [#154](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/pull/154) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+1. ❗️ Closed issue [#480](https://github.com/EddieHubCommunity/EddieBot/issues/480) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🗣 Commented on [#480](https://github.com/EddieHubCommunity/EddieBot/issues/480) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. 🗣 Commented on [#480](https://github.com/EddieHubCommunity/EddieBot/issues/480) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. 🗣 Commented on [#159](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/159) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+5. 🗣 Commented on [#36](https://github.com/anuraghazra/anuraghazra/issues/36) in [anuraghazra/anuraghazra](https://github.com/anuraghazra/anuraghazra)
 <!--END_SECTION:activity-->
